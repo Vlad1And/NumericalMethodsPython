@@ -15,7 +15,7 @@
     4. **Навчились** працювати з функціями `np.array`, `np.dot`, `np.sum`, `np.mean` для обчислень та маніпуляцій з числовими даними.
    
 * **З використанням URL:**
-     !(https://github.com/Vlad1And/NumericalMethodsPython/raw/main/pictures/matrix_example.png "Числові методи у Python")
+     !(https://github.com/Vlad1And/NumericalMethodsPython.git)"Числові методи у Python")
 
 
 * **Вставлений код:**
